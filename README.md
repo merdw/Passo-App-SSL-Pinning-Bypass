@@ -1,7 +1,7 @@
 # Passo-App-SSL-Pinning-Bypass
-Bypass Passo SSL pinning on iOS and Android devices. Latest version Passo v3.0.4 
+Bypass Passo SSL pinning on iOS and Android devices. Latest version Passo v3.3.2 
 
-Latest version: `v3.0.4`
+Latest version: `v3.3.2`
 
 Contact us for the latest version.
 Always active and up-to-date SSL pinning bypass service.
@@ -15,13 +15,13 @@ contact telegram: [@derdomerdo](https://t.me/derdomerdo)
 
 
 # Passo Uygulaması SSL Pinning Bypass
-Bypass Passo SSL pinning on iOS and Android devices. Latest version Passo v3.0.4 
+Bypass Passo SSL pinning on iOS and Android devices. Latest version Passo v3.3.2
 
-En güncel sürüm: `v3.0.4`
+En güncel sürüm: `v3.3.2`
 
-iOS ve Android cihazlarda Passo uygulamasının güvenlik duvarını aşmak mı istiyorsun? Passo v3.0.4 sürümündeki SSL pinning korumasını devre dışı bırakıyoruz. Bu sayede uygulamanın tüm trafiğini burp suite, mitm, fiddler, charles gibi uygulamaları kullanarak istediğiniz gibi dinleyebilir analiz edebilirsiniz.
+iOS ve Android cihazlarda Passo uygulamasının güvenlik duvarını aşmak mı istiyorsunuz? Passo v3.3.2 sürümündeki SSL pinning korumasını devre dışı bırakıyoruz. Bu sayede uygulamanın tüm trafiğini burp suite, mitm, fiddler, charles gibi uygulamaları kullanarak istediğiniz gibi dinleyebilir analiz edebilirsiniz.
 
-Başka bir uygulamanın güvenlik duvarını aşmak mı istiyorsun? iOS, Android fark etmez, hangi platform olursa olsun yardımcı olabiliriz.
+Başka bir uygulamanın güvenlik duvarını aşmak mı isterseniz iOS, Android fark etmez, hangi platform olursa olsun yardımcı olabiliriz.
 
 İletişim için Telegram: [@derdomerdo](https://t.me/derdomerdo)
 
